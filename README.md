@@ -1,4 +1,4 @@
-Pneumonia
+Pneumonia Detector
 
 Upload a Chest X-ray  image from your system and get to know if 
 there is a chance tha the X-Ray image is of an infected person or not!!!
